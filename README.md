@@ -1,6 +1,6 @@
-# 🧑🏻‍🚀 NFCtron Frontend Case Study (Seating, 2024)
+# 🧑🏻‍🚀 NFCtron Frontend Case Study (Seating)
 
->👋 Vítejte u zadání pro kandidáty na pozici ⚛️ **React Frontend Developer** v NFCtron! Vaším úkolem bude
+>👋 Vítejte u zadání pro kandidáty na pozici ⚛️ **Frontend Developer** v NFCtron! Vaším úkolem bude
 dokončit jednoduchou React aplikaci pro nákup vstupenek na akci.
 
 ## 🎯 Úvod
