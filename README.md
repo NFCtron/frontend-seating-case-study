@@ -43,6 +43,7 @@ _A dalším vychytávkám se meze nekladou! Ukažte, co umíte! 💫_
 
 ## ☝🏻 Dobré vědět
 
+-   Předpokládaná časová náročnost jsou **2-4 hodiny** čistého času (dle zkušenosti).
 -   Aplikace musí být psána v jazyce **TypeScript**.
 -   Využití jiných knihoven není zakázáno, naopak **je doporučeno**.
 -   Ve výchozím kódu aplikace lze dělat naprosto libovolné změny.
