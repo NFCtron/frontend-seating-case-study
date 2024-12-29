@@ -1,7 +1,9 @@
 # 🧑🏻‍🚀 NFCtron Frontend Case Study (Seating)
 
-> 👋 Vítejte u zadání pro kandidáty na pozici ⚛️ **Frontend Developer** v NFCtron! Vaším úkolem bude
+> 👋 Vítejte u zadání pro kandidáty na pozici ⚛️ **React a Typescript Frontend Developer** v NFCtron! Vaším úkolem bude
 > dokončit jednoduchou React aplikaci pro nákup vstupenek na akci.
+
+<img src="https://www.nfctron.com/data/blog/hr-mock.1733915983.jpg" alt="Buduj s NFCtron!" />
 
 ## 🎯 Úvod
 
@@ -66,11 +68,11 @@ _A dalším vychytávkám se meze nekladou! Ukažte, co umíte! 💫_
 5. Otestujte řádně svou aplikaci.
 6. Jakékoliv komentáře, či doplnění informací/dokumentace k vaší práci uvítáme v souboru `COMMENTS.md`.
 7. Svou aplikaci ideálně nasaďte na nějaký hosting (doporučujeme ▲ Vercel).
-8. Po dokončení úkolu zašlete na email [ditrich@nfctron.com](mailto:ditrich@nfctron.com):
+8. Po dokončení úkolu přiložte do žádosti u našeho inzerátu [React a Typescript Frontend Developer | Incubation 2025](https://www.nfctron.com/cs/kariera/react-a-typescript-frontend-developer-incubation-2025):
     - odkaz na Váš repozitář,
     - a odkaz na nasazenou aplikaci.
 
-📧 Máte-li jakékoli dotazy nebo potřebujete pomoci, neváhejte se na nás obrátit.
+📧 Máte-li jakékoli dotazy nebo potřebujete pomoci, neváhejte se na nás obrátit na emailu [hr@nfctron.com](mailto:hr@nfctron.com).
 
 ---
 
